@@ -55,3 +55,15 @@ GROUP BY ShipperName;
 BACKUP DATABASE testDB
 TO DISK = 'D:\backups\testDB.bak'
 WITH DIFFERENTIAL;
+
+--Create a table
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+
+-Delete the data inside of the table
+TRUNCATE TABLE Persons;
