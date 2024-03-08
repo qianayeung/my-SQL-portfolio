@@ -1,18 +1,57 @@
 -data: w3school.com
 -import customerdata
 INSERT INTO CustomerData(CustomerID, CustomerName,	ContactName,	Address,	City,	PostalCode,	Country)
-
-
 ('1' 	Alfreds Futterkiste', ;Maria Anders',	'Obere Str. 57',	'Berlin',	'12209',	'Germany'), 
 ('2', 'Ana Trujillo Emparedados y helados',	'Ana Trujillo',	'Avda. de la Constitución 2222', 'México D.F.',	'05021',	'Mexico'), 
 ('3 	Antonio Moreno Taquería 	Antonio Moreno 	Mataderos 2312 	México D.F. 	05023 	Mexico), 
 ('4 	Around the Horn 	Thomas Hardy 	120 Hanover Sq. 	London 	WA1 1DP 	UK), 
-(5 	Berglunds snabbköp 	Christina Berglund 	Berguvsvägen 8 	Luleå 	S-958 22 	Sweden 
-6 	Blauer See Delikatessen 	Hanna Moos 	Forsterstr. 57 	Mannheim 	68306 	Germany 
-7 	Blondel père et fils 	Frédérique Citeaux 	24, place Kléber 	Strasbourg 	67000 	France 
-8 	Bólido Comidas preparadas 	Martín Sommer 	C/ Araquil, 67 	Madrid 	28023 	Spain 
-9 	Bon app' 	Laurence Lebihans 	12, rue des Bouchers 	Marseille 	13008 	France 
-10 	Bottom-Dollar Marketse 	Elizabeth Lincoln 	23 Tsawassen Blvd. 	Tsawassen 	T2F 8M4 	Canada 
-11 	B's Beverages 	Victoria Ashworth 	Fauntleroy Circus 	London 	EC2 5NT 	UK 
-e 	Walla Walla 	99362 	USA 
-44 	Lehmanns Marktstand 	Renate Messner 	Magazinweg 7 	Frankfurt a.M.  	60528 	Germany 
+(5 	Berglunds snabbköp 	Christina Berglund 	Berguvsvägen 8 	Luleå 	S-958 22 	Sweden), 
+('6 	Blauer See Delikatessen 	Hanna Moos 	Forsterstr. 57 	Mannheim 	68306 	Germany), 
+('7 	Blondel père et fils 	Frédérique Citeaux 	24, place Kléber 	Strasbourg 	67000 	France), 
+(8 	Bólido Comidas preparadas 	Martín Sommer 	C/ Araquil, 67 	Madrid 	28023 	Spain), 
+(9 	Bon app' 	Laurence Lebihans 	12, rue des Bouchers 	Marseille 	13008 	France), 
+(10 	Bottom-Dollar Marketse 	Elizabeth Lincoln 	23 Tsawassen Blvd. 	Tsawassen 	T2F 8M4 	Canada), 
+(11 	B's Beverages 	Victoria Ashworth 	Fauntleroy Circus 	London 	EC2 5NT 	UK), 
+(12 	Lehmanns Marktstand 	Renate Messner 	Magazinweg 7 	Frankfurt a.M.  	60528 	Germany); 
+
+--Sort the result alphabetically, first by the column Country, then, by the column City.
+SELECT * FROM Customerdata
+ORDER BY Country, City;
+
+--Sort out customers that are NOT from Germany:
+SELECT * FROM Customers
+WHERE NOT Country = 'Germany';
+
+--Return all customers that starts with "b" and ends with "s":
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'b%s';
+
+--Select all records where the value of the City column does NOT start with the letter "a".
+SELECT * FROM Customers
+WHERE City NOT LIKE 'a%';
+
+--Return all customers that ends with 'a':
+SELECT * FROM Customers
+WHERE CustomerName LIKE '%a';
+
+--Return all customers starting with either "b", "s", or "p":
+SELECT * FROM Customers
+WHERE CustomerName LIKE '[bsp]%';
+
+--Select all records where the first letter of the City is NOT an "a" or a "c" or an "f".
+SELECT * FROM Customers
+WHERE City LIKE '[a-f]%';
+
+--Use the BETWEEN operator to select all the records where the value of the ProductName column is alphabetically between 'Geitost' and 'Pavlova'.
+SELECT * FROM Products
+WHERE ProductName BETWEEN 'Geitost' AND 'Pavlova';
+
+--List the number of orders sent by each shipper:
+SELECT Shippers.ShipperName, COUNT(Orders.OrderID) AS NumberOfOrders FROM Orders
+LEFT JOIN Shippers ON Orders.ShipperID = Shippers.ShipperID
+GROUP BY ShipperName;
+
+--Back up of the database "testDB":
+BACKUP DATABASE testDB
+TO DISK = 'D:\backups\testDB.bak'
+WITH DIFFERENTIAL;
