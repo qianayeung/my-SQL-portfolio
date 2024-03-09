@@ -39,3 +39,10 @@ INTERET INTO Data Job Salary VALUES
 SELECT * FROM Data Job Salary 
 ORDER BY job_title	salary DESC;
 
+--Rename column names
+SELECT job_title	salary AS current salary, salary_currency AS currency
+FROM Data Job Salary;
+
+--Specify  multiple values 
+SELECT * FROM Data Job Salary 
+WHERE employment_type IN ('Data Analyst', 'Data Scientist', 'Data Engineer');
