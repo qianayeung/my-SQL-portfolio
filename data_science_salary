@@ -36,8 +36,8 @@ INTERET INTO Data Job Salary VALUES
 30	2020	MI	FT	Data Engineering Manager	51999	EUR	59303	DE	100	DE	S
 
 --Display the database ordered by price
-SELECT * FROM storefront 
-ORDER BY price DESC;
+SELECT * FROM Data Job Salary 
+ORDER BY job_title	salary DESC;
 
 --What is the average price of each type of item?
 SELECT type, AVG(price) FROM storefront
