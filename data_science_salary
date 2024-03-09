@@ -39,7 +39,3 @@ INTERET INTO Data Job Salary VALUES
 SELECT * FROM Data Job Salary 
 ORDER BY job_title	salary DESC;
 
---What is the average price of each type of item?
-SELECT type, AVG(price) FROM storefront
-GROUP BY type
-ORDER BY price DESC;
