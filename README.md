@@ -1,7 +1,7 @@
 # Description
 Thanks for checking my page, this repository contains examples all written by myself. 
 <h2> Content <h2>
-  <ul>
+  <body><ul>
     <li>Customer Data Exbtract</li> 
     <li>Using SELECT * FROM to:</li>
       <li>Select customers order by Country and City</li>
