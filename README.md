@@ -1,7 +1,8 @@
 # Description
 Thanks for checking my page, this repository contains examples all written by myself. 
+
 <body>
-<h2> Content <h2>
+<h2>Content</h2>
   <ul>
     <li>Customer Data Exbtract</li> 
     <li>Using SELECT * FROM to:</li>
