@@ -5,8 +5,7 @@ https://github.com/
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="![file icon](https://github.com/qianayeung/my-SQL-portfolio/assets/141664041/ebcd7b34-6cab-491e-9f72-f8d28e4aae1d)
-">
+  <a href="https://icons8.com/icon/23KxQfr1MjgO/attachment-file">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
