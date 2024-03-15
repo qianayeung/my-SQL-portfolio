@@ -23,4 +23,12 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTACT -->
+## Contact
+
+Qiana Yeung - [@Qiana Yeung]([https://twitter.com/your_username](https://twitter.com/QianaY15132)) - qianayang97@gmail.com
+
+Project Link: [[https://github.com/your_username/repo_name](https://github.com/qianayeung/my-SQL-portfolio)]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
    
