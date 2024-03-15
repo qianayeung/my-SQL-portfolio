@@ -1,5 +1,5 @@
 <h2>Description</h2>
-Thanks for checking my page, this repository contains examples all written by myself. 
+Thanks for checking my SQL portfolio, this repository contains examples all written by myself. 
 
 <!DOCTYPE html> 
 <html>
@@ -20,5 +20,7 @@ Thanks for checking my page, this repository contains examples all written by my
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
     </ol>
   </details>
-  
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
    
