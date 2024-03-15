@@ -32,7 +32,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
       <li>Select customers whose names start with 'b', 'p' or 's'</li>
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
   </details>
-<br />         
+        
   </p>
 </div>
 <!DOCTYPE html> 
