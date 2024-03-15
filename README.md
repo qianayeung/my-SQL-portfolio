@@ -3,7 +3,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="left">
      <a href="https://github.com/qianayeung/my-SQL-portfolio">
          <img src="file icon.png" alt="Logo" width="80" height="80">
 
