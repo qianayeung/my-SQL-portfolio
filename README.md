@@ -9,7 +9,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 
   </a>
 
-  <h3 align="left">My-SQL-Portfolio</h3>
+  <h3 align="left">Content Table</h3>
 
   </p>
 </div>
@@ -17,7 +17,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <!DOCTYPE html> 
 <html>
 <body>
-<!-- CONTENTS -->
+<!-- Customer Product Analysis -->
 <details>
   <summary>Content</summary>
   <ol>
