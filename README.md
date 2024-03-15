@@ -9,7 +9,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 
   </a>
 
-  <h3 align="center">My-SQL-Portfolio</h3>
+  <h3 align="left">My-SQL-Portfolio</h3>
 
   </p>
 </div>
