@@ -4,8 +4,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="![file icon](https://github.com/qianayeung/my-SQL-portfolio/assets/141664041/12255d65-133a-4a3d-bb12-6c39dd7efe73)
-" alt="Logo" width="80" height="80">
+    <img src="https://github.com/qianayeung/my-SQL-portfolio" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">My-SQL-Portfolio</h3>
