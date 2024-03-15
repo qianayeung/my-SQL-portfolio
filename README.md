@@ -4,8 +4,9 @@ Thanks for checking my page, this repository contains examples all written by my
 <!DOCTYPE html> 
 <html>
 <body>
-  
+<h2>Content</h2>
 <summary>Content</summary>
+  <details>
   <ul>
     <li>Customer Data Exbtract</li> 
     <li>Using SELECT * FROM to:</li>
