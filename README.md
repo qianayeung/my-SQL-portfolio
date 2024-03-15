@@ -1,7 +1,6 @@
 <h2>Description</h2>
 Thanks for checking my SQL portfolio, this repository contains examples all written by myself. 
 
-https://github.com/
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
