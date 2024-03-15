@@ -19,7 +19,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <body>
 <!-- Customer Product Analysis -->
 <details>
-  <summary>Content</summary>
+  <summary>Customer Product Analysis</summary>
   <ol>
   <ul>
     <li>Customer Data Exbtract</li> 
