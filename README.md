@@ -19,8 +19,7 @@ Thanks for checking my page, this repository contains examples all written by my
       <li>Select customers whose names start with 'b', 'p' or 's'</li>
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
   
-    <body>--data: w3school.com
---import customerdata
+    <body>--data: w3school.com --import customerdata
 CREATE TABLE CustomerData (CustomerID, CustomerName, ProductName, ContactName, Address, City, PostalCode, Country);
 
 INSERT INTO CustomerData VALUES
