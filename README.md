@@ -1,6 +1,20 @@
 <h2>Description</h2>
 Thanks for checking my SQL portfolio, this repository contains examples all written by myself. 
 
+https://github.com/
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="![file icon](https://github.com/qianayeung/my-SQL-portfolio/assets/141664041/ebcd7b34-6cab-491e-9f72-f8d28e4aae1d)
+">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">My-SQL-Portfolio</h3>
+
+  </p>
+</div>
+
 <!DOCTYPE html> 
 <html>
 <body>
@@ -20,21 +34,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
     </ol>
   </details>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-https://github.com/
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">My-SQL-Portfolio</h3>
-
-  </p>
-</div>
 
 <!-- CONTACT -->
 ## Contact
