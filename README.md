@@ -5,6 +5,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <br />
 <div align="center">
     <img src="https://github.com/qianayeung/my-SQL-portfolio" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">My-SQL-Portfolio</h3>
