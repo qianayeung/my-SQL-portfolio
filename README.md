@@ -42,11 +42,10 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
  <ol>
  <ul>
     <li>Showcased the table of different data science jobs & salary</li> 
-      <li>Using SELECT * FROM to extract data based on job_title salary in a descending order</li>
-      <li>Using SELECT AS to rename job_title salary as current salary, salary_currency as currency</li>
-      <li>Specifying multiple values using SELECT * FROM and WHERE IN to extract Data Job Salary that falls on employment_type of Data Analyst, Data Scientist and Data Engineer</li>
+    <li>Using SELECT * FROM to extract data based on job_title salary in a descending order</li>
+    <li>Using SELECT AS to rename job_title salary as current salary, salary_currency as currency</li>
+    <li>Specifying multiple values using SELECT * FROM and WHERE IN to extract Data Job Salary that falls on employment_type of Data Analyst, Data Scientist and Data Engineer</li>
      
-    </ol>
   </details>
 <br />
 
