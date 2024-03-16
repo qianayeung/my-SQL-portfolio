@@ -56,6 +56,11 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
    
 
+</details>
+<!DOCTYPE html> 
+<html>
+<body>
+
 <!-- CONTACT -->
 ## Contact
 
