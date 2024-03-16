@@ -14,6 +14,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
   </p>
 </div>
 
+</details>
 <!DOCTYPE html> 
 <html>
 <body>
