@@ -18,6 +18,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <html>
 <body>
 <!-- Customer Product Analysis -->
+     <div align="right">(<a>**Difficulty Level** -  ★★☆☆☆</a>)</div>
 <details>
   <summary>Customer Product Analysis</summary>
   <ol>
@@ -32,6 +33,8 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
       <li>Select customers whose names start with 'b', 'p' or 's'</li>
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
   </details>
+  <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
         
   </p>
 </div>
@@ -39,6 +42,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
 <html>
 <body>
 <!-- Data Science Job Salary -->
+     <div align="right">(<a>**Difficulty Level** -  ★★☆☆☆</a>)</div>
 <details>
  <summary>Data Science Job Salary</summary>
  <ol>
