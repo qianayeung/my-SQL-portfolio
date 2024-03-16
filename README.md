@@ -35,7 +35,6 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
       <li>Select all products with ProductNames between 'Côte de Blaye' and 'Geitost'
   </details>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
         
   </p>
 </div>
@@ -53,8 +52,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
     <li>Using SELECT AS to rename job_title salary as current salary, salary_currency as currency</li>
     <li>Specifying multiple values using SELECT * FROM and WHERE IN to extract Data Job Salary that falls on employment_type of Data Analyst, Data Scientist and Data Engineer</li>
      
-  </details>
-<br />
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
    
 
