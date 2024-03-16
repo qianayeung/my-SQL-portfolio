@@ -50,6 +50,8 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
      
   </details>
 <br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+   
 
 <!-- CONTACT -->
 ## Contact
