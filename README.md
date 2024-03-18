@@ -70,8 +70,9 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<div align="left">
-         <img src="github-mark.png="Logo" width="20" height="20">
+theme:
+  icon:
+    repo: fontawesome/brands/github
 
   </a>
 <h2><a href="https://github.com/qianayeung/my_python_projects/edit/Sales-Analysis/README.md">Related</a><h2>
