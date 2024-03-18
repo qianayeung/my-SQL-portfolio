@@ -69,4 +69,6 @@ Qiana Yeung - [@Qiana Yeung]([https://twitter.com/your_username](https://twitter
 Project Link: [[https://github.com/your_username/repo_name](https://github.com/qianayeung/my-SQL-portfolio)]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<h2><a href="https://github.com/qianayeung/my_python_projects/tree/Sales-Analysis">Related</a><h2>
    
