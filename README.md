@@ -71,7 +71,7 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<div align="left">
+<h2><a href="https://github.com/qianayeung/my_python_projects/edit/Sales-Analysis/README.md">Related</a><h2><div align="left">
      <a href="https://github.com/qianayeung/my-SQL-portfolio/blob/main/github-mark.png">
-         <img src="github-mark.png" alt="Logo" width="40" height="40"><h2><a href="https://github.com/qianayeung/my_python_projects/edit/Sales-Analysis/README.md">Related</a><h2>
+         <img src="github-mark.png" alt="Logo" width="40" height="40">
    
