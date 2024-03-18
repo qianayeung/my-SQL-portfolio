@@ -71,7 +71,6 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <div align="left">
-     <a href="https://github.com/qianayeung/my-SQL-portfolio">
          <img src="github-mark" alt="Logo" width="20" height="20">
 
   </a>
