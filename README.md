@@ -24,7 +24,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
   <summary>Customer Product Analysis</summary>
   <ol>
   <ul>
-    <li>Customer Data Exbtract</li> 
+    <li>Customer Data Exbtract</li><a href"=https://github.com/qianayeung/my-SQL-portfolio/blob/main/customer%20product%20analysis" </a> 
     <li>Using SELECT * FROM to:</li>
       <li>Select customers order by Country and City</li>
       <li>Select customers who are from Non-Germany countries</li>
