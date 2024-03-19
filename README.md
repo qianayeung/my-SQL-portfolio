@@ -46,6 +46,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
      <div align="right">(<a>**Difficulty Level** -  ★★☆☆☆</a>)</div>
 <details>
  <summary>Data Science Job Salary</summary>
+     <a href="https://github.com/qianayeung/my-SQL-portfolio/blob/main/data_science_salary">Data Science Job Salary</a>
  <ol>
  <ul>
     <li>Showcased the table of different data science jobs & salary</li> 
