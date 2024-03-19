@@ -22,6 +22,7 @@ Thanks for checking my SQL portfolio, this repository contains examples all writ
      <div align="right">(<a>**Difficulty Level** -  ★★☆☆☆</a>)</div>
 <details>
   <summary>Customer Product Analysis</summary>
+     <a href="https://github.com/qianayeung/my-SQL-portfolio/blob/main/customer%20product%20analysis">Customer Product Analysis</a>
   <ol>
   <ul>
     <li>Customer Data Exbtract</li><a href"=https://github.com/qianayeung/my-SQL-portfolio/blob/main/customer%20product%20analysis" </a> 
