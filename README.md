@@ -77,3 +77,4 @@ Project Link: [[https://github.com/your_username/repo_name](https://github.com/q
      <a href="https://github.com/qianayeung/my-SQL-portfolio/blob/main/github-mark.png">
          <img src="github-mark.png" alt="Logo" width="40" height="40">
    
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/qiana-yeung-89122b205/) 
